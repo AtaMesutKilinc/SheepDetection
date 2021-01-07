@@ -1,5 +1,5 @@
 # SheepDetection
+https://github.com/AtaMesutKilinc/SheepDetection/blob/main/sample%20interface.jpg
 
 
 
-https://github.com/[AtaMesutKilinc]/[SheepDetection]/blob/[branch]/sampleinterface.jpg?raw=true
