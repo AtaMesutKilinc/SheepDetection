@@ -1,4 +1,5 @@
 # SheepDetection
 
 
-![alt text](https://github.com/[AtaMesutKilinc]/[SheepDetection]/blob/[sample interface]/image.jpg?raw=true)
+
+https://github.com/[AtaMesutKilinc]/[SheepDetection]/blob/[branch]/image.jpg?raw=true
