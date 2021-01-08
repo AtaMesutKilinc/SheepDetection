@@ -1,5 +1,5 @@
-# Using Python YoloV3-608 Algorithm and Opencv Library for Sheep Detection and Printing on the Interface Designed in Qt Designer
-80 objects can be detected with Opencv library and YoloV3-608 Real Time Object Detection Algorithm.I detected sheep / sheeps by pulled only the sheep label from the detected objects with the if loop. The global 'koyun' variable defined with count sheep detected in printed to console.
+# Using Python: YoloV3-608 Algorithm and Opencv Library for Sheep Detection and Printing on the Interface Designed in Qt Designer
+80 objects can be detected with Opencv library and YoloV3-608 Real Time Object Detection Algorithm. I detected sheep / sheeps by pulled only the sheep label from the detected objects with the if loop. The global 'koyun' variable defined with count sheep detected in printed to console.
  In the Qt Designer program, I designed an interface that displays the state of the object before it was detected, the state after it was detected, and the number of objects detected in the photo. I converted my design into python codes and integrated it into the code.
 
 # Sample Photo / Örnek Resim
