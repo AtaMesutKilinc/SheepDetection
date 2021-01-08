@@ -1,6 +1,6 @@
 # Qt Designer'da Tasarlanan Bir Arayüzde Python YoloV3-608 Algoritması ve Opencv Kütüphanesi Kullanarak Sadece Koyun Tespiti Yapmak
 Opencv ve YoloV3-608 Gerçek Zamanlı Nesne Tespiti Algoritması ile 80 adet nesne tespiti yapılabilmektedir. Tespit edilen nesnelerden sadece koyun etikeni if döngüsü ile çekerek sadece koyun tespit ettim. If döngüsünün üzerine tanımladığım global koyun değişkeni ile tespit ettirdiğim nesne sayısını consol'a yazdırdım. 
-Tespit ettiğimiz nesneyi/nesneleri Qt Designer programında nesnenin tespit edilmeden önceki hali, tespit edildikten sonraki hali ve resimde kaç tane nesne tespit edildinin sayısını gösteren bir arayüz tasarladım.
+Tespit ettiğimiz nesneyi/nesneleri Qt Designer programında nesnenin tespit edilmeden önceki hali, tespit edildikten sonraki hali ve resimde kaç tane nesne tespit edildinin sayısını gösteren bir arayüz tasarladım.Tasarımımı python kodlarına dönüştürerek kodlara entegre ettim.
 # Örnek Resim
 ![alt text](https://github.com/AtaMesutKilinc/SheepDetection/blob/main/sample%20interface.jpg?raw=true)
 
